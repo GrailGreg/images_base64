@@ -9,6 +9,6 @@ Repository = "https://github.com/GrailGreg/images_base64"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "@grailgreg"
 DisplayName = "images_base64"
 Icon = ""
