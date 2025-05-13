@@ -2,7 +2,7 @@ class BaseNode():
     FUNCTION = "func"
 
 class BaseNodeStringAssistant(BaseNode):
-    CATEGORY = "Image base 64 > String Assistant"
+    CATEGORY = "Image base 64"
 
 class ShowText64(BaseNodeStringAssistant): 
     RETURN_TYPES = ()
